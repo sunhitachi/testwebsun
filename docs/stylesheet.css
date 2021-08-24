@@ -60,7 +60,7 @@ a {
 
 .btn {
   padding: 8px 24px;
-  color: black;
+  color: white;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
@@ -101,7 +101,7 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: black;
+  color: white;
   display: block;
   float: left;
   transition: all 0.5s;
@@ -143,7 +143,7 @@ header {
   position: absolute;
   top: 37%;
   width: 100%;
-  color: black;
+  color: white;
 }
 
 .text-contents {
